@@ -13,5 +13,8 @@ gem "wdm", "~> 0.1.0", :platforms => [:mswin, :mingw]
 # Windows does not come with time zone data
 gem "tzinfo-data", platforms: [:mswin, :mingw]
 
-# Make it easy to use Foundation in project
+# Make it easy to use Foundation CSS elements in project
 gem "foundation-rails", require: false
+
+# Deploy a middleman built site over rsync, ftp, sftp, or git (e.g. gh-pages on github).
+gem "middleman-deploy"
