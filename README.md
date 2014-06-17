@@ -13,3 +13,5 @@ fairly standard CSS code already modeled elsewhere.
 Assignment is incomplete.
 
 TO DO:
+Add CSS and styling from either Zurb Foundation or 10 original CSS stylings. 
+Use middleman-blog gem for Blog/Interests page.
