@@ -1,3 +1,11 @@
 ---
 title: Homework Project Portfolio
 ---
+
+
+<h1>Homework Projects Portfolio</h1>
+<ul>
+  <% data.projects.projects.each do |project| %>
+<li><%= link_to project.name, project.link %></li>
+  <% end %>
+</ul>
