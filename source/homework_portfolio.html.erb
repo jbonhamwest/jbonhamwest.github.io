@@ -3,9 +3,14 @@ title: Homework Project Portfolio
 ---
 
 
-<h1>Homework Projects Portfolio</h1>
+<h1 style="padding: 0 0 0 40px;" >Homework Projects Portfolio</h1>
 <ul>
   <% data.projects.projects.each do |project| %>
-<li><%= link_to project.name, project.link %></li>
+<li class="project"><%= link_to project.name, project.link %></li>
   <% end %>
+</ul>
+<ul style="padding: 0 0 0 40px;" >
+<li class="bar_item"><a href="/about_contact.html">About/Contact</a></li>
+<li class="bar_item"><a href="/">Back to Home</a></li>
+<li class="bar_item"><a href="/blog_interests.html">Blog/Interests</a></li>
 </ul>

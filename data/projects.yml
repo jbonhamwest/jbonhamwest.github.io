@@ -1,13 +1,15 @@
 projects:
-  - name: Hot_Glass
-    link: Hot_Glass
-  - name: Future 1
-    link: Future_1
-  - name: Future 2
-    link: Future_2
-  - name: Future 3
-    link: Future_3
-  - name: Future 4
-    link: Future_4
-  - name: Future 5
-    link: Future_5
+  - name: Hypotenuse of a Right Triangle
+    link: https://gist.github.com/jbonhamwest/f9a1070ba52b7a6ca36a
+  - name: Number Guessing Game
+    link: https://github.com/jbonhamwest/Homework-2
+  - name: Blackjack Game
+    link: https://github.com/jbonhamwest/blackjack_game.git
+  - name: The Iron Yard Site - Middleman
+    link: https://gist.github.com/jbonhamwest/bb16d3205a41456f5a23
+  - name: Hot Glass Website
+    link: https://github.com/jbonhamwest/Hot_Glass
+  - name: Personal Website (this website)
+    link: http://jbonhamwest.github.io
+  - name: Homework Tracker Application
+    link: http://     .github.io
