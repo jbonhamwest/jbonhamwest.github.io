@@ -7,8 +7,5 @@ from personal webpage.
 CSS "factories" (such as foundation-rails) contain sample stylesheets so developer doesn't have to re-invent
 fairly standard CSS code already modeled elsewhere.
 
-Assignment is incomplete.
-
-TO DO:
-Add CSS and styling from either Zurb Foundation or 10 original CSS stylings.
-Use middleman-blog gem for Blog/Interests page.
+FUTURE WORK to IMPROVE SITE:
+Use Middleman Blog to continue blog entries
